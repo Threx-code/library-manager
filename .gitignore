@@ -4,6 +4,10 @@ db.sqlite3
 /src/db.sqlite3
 /src/media/
 postgres/
+/src/.DS_Store
+/src/.idea
+/src/__pycache__/
+
 
 # created by virtualenv automatically
 # Byte-compiled / optimized / DLL files
