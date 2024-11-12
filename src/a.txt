@@ -1,7 +1,0 @@
-A depends on B C
-B depends on C E
-C depends on G
-D depends on A F
-E depends on F
-F depends on H
-M
