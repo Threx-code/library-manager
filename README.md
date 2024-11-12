@@ -6,7 +6,7 @@ Software Library Dependencies Manager
 
 #### Installation You need Python to be able to run the script. You can download Python from the official website https://www.python.org/downloads/
 - cd ~/path/to/the/directory/where/you/downloaded/the/project
-- cd to src directory
+- cd to the src directory
 - RUN python -m library_manager
 - Enter the file path of the file you want to upload
 
